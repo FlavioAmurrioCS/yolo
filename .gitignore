@@ -144,3 +144,4 @@ static
 VOCdevkit_2007
 data
 .vscode
+*.tar
